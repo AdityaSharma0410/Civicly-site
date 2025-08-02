@@ -1,22 +1,20 @@
-# Welcome to your Lovable project
+
+# Civicly Connect
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/c70f04e1-406a-4b5a-860a-360ec71a5dd2
+
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c70f04e1-406a-4b5a-860a-360ec71a5dd2) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -35,6 +33,7 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
 
 **Edit a file directly in GitHub**
 
@@ -60,14 +59,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/c70f04e1-406a-4b5a-860a-360ec71a5dd2) and click on Share -> Publish.
+You can deploy this project using any static hosting provider (like Vercel, Netlify, or GitHub Pages) after building with `npm run build`.
 
-## Can I connect a custom domain to my Lovable project?
+## Custom Domain
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+If you use a hosting provider, follow their documentation to connect a custom domain.
